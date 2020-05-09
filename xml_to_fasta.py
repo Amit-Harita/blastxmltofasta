@@ -30,7 +30,7 @@ except:
 
         print("--------------Error--------------"* + "\nSee Correct Usages below\n")
 
-        print("Usages: python filter_X.py {input_file.xml} {output_file.fasta}")
+        print("Usages: python xml_to_fasta.py {input_file.xml} {output_file.fasta}")
 
         raise SystemExit()
 
